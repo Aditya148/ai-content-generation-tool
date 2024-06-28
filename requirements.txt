@@ -4,3 +4,4 @@ pillow
 ipykernel
 jupyter
 python-dotenv
+pandas

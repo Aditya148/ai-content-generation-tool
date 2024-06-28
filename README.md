@@ -1,5 +1,7 @@
 # ai-content-generation-tool
 AI-powered Content Creation and Editing Tool
+![Alt Text](images/1.png)
+
 This application uses GenarativeAI to generate news content and images, streamlining the news creation process. It leverages cutting-edge language and image generation models from OpenAI, ensuring high-quality and engaging outputs.
 
 ## Features
@@ -79,3 +81,17 @@ By following these steps, you can create a virtual environment, install the nece
 
 ### Screenshots from the tool
 
+#### 1. Application Dashboard
+![Alt Text](images/1.png)
+#### 2. News Content Generation (Initial Draft)
+![Alt Text](images/2.png)
+#### 3. Improve the Generated Content (Draft Improvements: Grammar, Styling and Factual Improvements)
+![Alt Text](images/3.png)
+#### Improved Content and Corrections Done
+![Alt Text](images/4.png)
+#### 4. Further Custom Editting Option
+![Alt Text](images/5.png)
+#### 5. Banner/News Bulletin Generation using the Article Summary
+![Alt Text](images/6.png)
+#### 5. Feedback, Ratings and Performance Metrics (based on user feedback)
+![Alt Text](images/7.png)
