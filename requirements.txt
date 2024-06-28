@@ -1,0 +1,6 @@
+openai
+streamlit
+pillow
+ipykernel
+jupyter
+python-dotenv
